@@ -1,6 +1,6 @@
 Ben Sherwin
 
-Math major, CS minor at Columbia University
+Software Dev
 
 Interested in games & puzzles
 
